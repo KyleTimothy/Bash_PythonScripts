@@ -5,7 +5,7 @@
 <body>
   <center>BashScripts and PythonScripts</center>
  <img src='https://cdn.mos.cms.futurecdn.net/LJSA6h759BKJvuaBZyoUY-1200-80.jpg'>
- 
+ <img src='![image](https://user-images.githubusercontent.com/15368505/153249103-0339d14a-ce0f-4d81-848b-53215701e6bc.png)'>
  <p>This will allow you to utilize the script when you do not abundantly know the code throughly of linux commands. </p>
 
 </body>
